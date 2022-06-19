@@ -8,7 +8,7 @@ Spring-boot-version 2.6.7
 
 For building and running the application you need:
 
-JDK 16 
+JDK 17
 
 Maven 3 or higher
 
